@@ -1,0 +1,16 @@
+{
+  "name": "cannonball-coast-to-coast",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "check": "tsc --noEmit",
+    "test": "node --test tests/*.test.ts",
+    "build:windows": "npm run build && node tools/build-windows.mjs --smoke",
+    "qa:windows": "node tools/build-windows.mjs --smoke-only"
+  },
+  "devDependencies": { "typescript": "5.9.2", "vite": "7.1.5" }
+}

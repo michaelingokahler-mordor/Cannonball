@@ -1,0 +1,51 @@
+LOCAL FONT BUNDLE
+
+Retrieved 2026-10-26. The WOFF2 files are the unmodified Latin resources returned by Google Fonts.
+Only the UI font styles are included: Barlow Condensed normal 400/500/600/700/800/900,
+DM Sans normal variable (CSS uses 400-700), and Libre Baskerville italic 400.
+
+The Google Fonts Latin unicode range includes U+0000-00FF, covering German umlauts and sharp s.
+The fonts are redistributed under the SIL Open Font License 1.1; full upstream notices and
+copyright statements accompany this bundle in the three OFL-*.txt files.
+
+CSS API source:
+https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@1,400&display=swap
+
+Official license sources:
+OFL-barlowcondensed.txt : https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt
+OFL-dmsans.txt : https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt
+OFL-librebaskerville.txt : https://raw.githubusercontent.com/google/fonts/main/ofl/librebaskerville/OFL.txt
+
+FONT SOURCES AND SHA-256:
+
+barlow-condensed-latin-400.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT2g.woff2
+SHA-256: 7fff1bb22e5773f0d1a55d3093068b6dac4539e8bb3ac23fb9f0a729df2c7bb4
+
+barlow-condensed-latin-500.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2
+SHA-256: 460f141ec8f6c9a1516bfd2bd9fe71656246d7a9d04a0955faf53158d8970c4c
+
+barlow-condensed-latin-600.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2
+SHA-256: 215a93c696f442034a46fbb382958f753fda60e30490683aeea6b235fcbb2b66
+
+barlow-condensed-latin-700.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2
+SHA-256: 3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8
+
+barlow-condensed-latin-800.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2
+SHA-256: 2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce
+
+barlow-condensed-latin-900.woff2
+https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3bWuQ.woff2
+SHA-256: aa01966de3f608a765a172237a3ffc6161fe4c7e3870b1a904dc6437e54c4e24
+
+dm-sans-latin-variable.woff2
+https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+SHA-256: 9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543
+
+libre-baskerville-latin-400-italic.woff2
+https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SjNNluc.woff2
+SHA-256: efb7e5f4376a557314f5bb9f5197ef837d86c0ab38e1a50a0ff5c60c3400c629
